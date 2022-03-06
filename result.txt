@@ -1,0 +1,9 @@
+test_user_login_normal (test_user_login.TestUserLogin) ... ok
+test_user_login_password_wrong (test_user_login.TestUserLogin) ... ok
+test_user_reg_exist (test_user_reg.TestUserReg) ... ok
+test_user_reg_normal (test_user_reg.TestUserReg) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.143s
+
+OK
